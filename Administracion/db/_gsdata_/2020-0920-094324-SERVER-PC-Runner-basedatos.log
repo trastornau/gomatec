@@ -1,0 +1,40 @@
+2020-09-20 09:43:24: Connected to: D:\gomatec\Administracion\db: D: NTFS: type=NTFS vol= flags=3E700FF
+2020-09-20 09:43:24: Connected to: D:\backup: D: NTFS: type=NTFS vol= flags=3E700FF
+2020-09-20 09:43:24: -- Análisis iniciado por Periodic Timer, Under Runner
+2020-09-20 09:43:24: -- basedatos: ANÁLISIS comenzado por Periodic Timer, Under Runner en ordenador 'SERVER-PC' (GoodSync v 10.2.6.8)
+2020-09-20 09:43:24: D:\gomatec\Administracion\db (D:/gomatec/Administracion/db) [TmpDest] =PropDels=> D:\backup (D:/backup) [TmpDest], SavePrevVers, CleanupPrevVers=30d, LinksCopy, ReconnectSecs=120, CopyCreateTime
+2020-09-20 09:43:24: Excluir name *._gstmp|/System Volume Information|Thumbs.db|.DS_Store 
+2020-09-20 09:43:24: Locking folder D:/gomatec/Administracion/db for write
+2020-09-20 09:43:24: I: Leer archivo de estado D:/gomatec/Administracion/db/_gsdata_/_file_state_v4._gs
+2020-09-20 09:43:24: I: Archivos: 3 (excluidos 0). Carpetas: 0 (excluidas 1). Times (s): Folder Scan: 0.032 (125 f/s), Compare: 0.000 D: NTFS, Libre: 1,48 TB, Total: 1,52 TB
+2020-09-20 09:43:24: Locking folder D:/backup for write
+2020-09-20 09:43:24: D: Leer archivo de estado D:/backup/_gsdata_/_file_state_v4._gs
+2020-09-20 09:43:24: D: Archivos: 3 (excluidos 0). Carpetas: 0 (excluidas 1). Times (s): Folder Scan: 0.015 (266 f/s), Compare: 0.000 D: NTFS, Libre: 1,48 TB, Total: 1,52 TB
+2020-09-20 09:43:24: En el disco file:///D: el espacio necesario para sincronizar es 85,0 MB, tiene 1,48 TB
+2020-09-20 09:43:24: En el disco file:///D: el espacio necesario para sincronizar es 85,0 MB, tiene 1,48 TB
+2020-09-20 09:43:24: Cambios: 2, Conflictos: 0, TiempoCopia: 0, EstadoCopia: 0/0, Errores: 0, All: 4
+2020-09-20 09:43:24: Left to Right: Copy File: 2 
+2020-09-20 09:43:24: -- Análisis Completado. Tiempo 00:00:00, Velocidad: Many archivo/s
+2020-09-20 09:43:24: == Sincronización iniciada por Periodic Timer, Under Runner
+2020-09-20 09:43:24: == basedatos: SINC comenzada por Periodic Timer, Under Runner en 'SERVER-PC'
+2020-09-20 09:43:24: D:\gomatec\Administracion\db (D:/gomatec/Administracion/db) [TmpDest] =PropDels=> D:\backup (D:/backup) [TmpDest], SavePrevVers, CleanupPrevVers=30d, LinksCopy, ReconnectSecs=120, CopyCreateTime
+2020-09-20 09:43:24: Load Recycled DB: D:/backup/_gsdata_/_recycled_db._gs
+2020-09-20 09:43:24: Copiar Sobre 'D:/gomatec/Administracion/db/f2018_bs.ldb' -> 'D:/backup/f2018_bs.ldb'
+2020-09-20 09:43:25: Copiar Sobre 'D:/gomatec/Administracion/db/f2018_bs.mdb' -> 'D:/backup/f2018_bs.mdb'
+2020-09-20 09:43:25: Guardar archivo de estado D:/gomatec/Administracion/db/_gsdata_/_file_state_v4._gs
+2020-09-20 09:43:25: Guardar archivo de estado D:/backup/_gsdata_/_file_state_v4._gs
+2020-09-20 09:43:25: Cleanup recycled files in D:/gomatec/Administracion/db/_gsdata_/_saved_
+2020-09-20 09:43:25: Cleanup old logs in C:/Users/server/AppData/Roaming/GoodSync/_mirrors_/D-gomatec-Administracion-db
+2020-09-20 09:43:25: Cleanup old logs in D:/gomatec/Administracion/db/_gsdata_
+2020-09-20 09:43:25: Delete log C:/Users/server/AppData/Roaming/GoodSync/_mirrors_/D-gomatec-Administracion-db/2020-0914-094320-SERVER-PC-Runner-basedatos.log
+2020-09-20 09:43:25: Delete log D:/gomatec/Administracion/db/_gsdata_/2020-0914-094320-SERVER-PC-Runner-basedatos.log
+2020-09-20 09:43:25: Cleanup recycled files in D:/backup/_gsdata_/_saved_
+2020-09-20 09:43:25: Save Recycled DB: D:/backup/_gsdata_/_recycled_db._gs
+2020-09-20 09:43:25: Cleanup old logs in C:/Users/server/AppData/Roaming/GoodSync/_mirrors_/D-backup
+2020-09-20 09:43:25: Cleanup old logs in D:/backup/_gsdata_
+2020-09-20 09:43:25: Delete log C:/Users/server/AppData/Roaming/GoodSync/_mirrors_/D-backup/2020-0914-094320-SERVER-PC-Runner-basedatos.log
+2020-09-20 09:43:25: Delete log D:/backup/_gsdata_/2020-0914-094320-SERVER-PC-Runner-basedatos.log
+2020-09-20 09:43:25: == Sinc. Completa. Tiempo: 00:00:01, Velocidad: 85,0 MB/s, Elementos Sincronizados OK: 2, Errores: 0
+2020-09-20 09:43:25: Unlocking folder D:/gomatec/Administracion/db/_gsdata_/lock.gsl
+2020-09-20 09:43:25: Unlocking folder D:/backup/_gsdata_/lock.gsl
+2020-09-20 09:43:25: 
