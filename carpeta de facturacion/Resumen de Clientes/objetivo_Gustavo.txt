@@ -1,11 +1,11 @@
 Listado de cliente
 Viajante: Gustavo
-Periodo: 01/09/2020 - 01/10/2020
+Periodo: 02/09/2020 - 02/10/2020
 
 
  Alicata Elsa | $58530.71
  Alicata, Graciela Josefa | $44237.18
- Alonso M.E. | $9366.77
+ Alonso M.E. | $4089.20
  Alonso, Maria Ester | $21332.13
  Aragón José | $1723.31
  Bedogni Lucas | $0.00
@@ -31,7 +31,7 @@ Periodo: 01/09/2020 - 01/10/2020
  Fernandez Murga | $0.00
  Fernando Colombres | $0.00
  Fernando Tomas Fernandez | $0.00
- Ferreteria 24 de Set. (N) | $189762.88
+ Ferreteria 24 de Set. (N) | $151942.29
  Ferretería 24 S.R.L. | $29625.50
  Fredy Gonzalez | $0.00
  Fuentes, Felipe Augusto | $22301.56
@@ -51,7 +51,7 @@ Periodo: 01/09/2020 - 01/10/2020
  Medrano Diaz, Manuel | $0.00
  Medrano Diaz, Manuel (n) | $0.00
  Naty (cordoba) | $0.00
- Nuñez (N) | $16455.08
+ Nuñez (N) | $6249.66
  Nuñez, Mario | $50993.14
  Orlandi | $9850.26
  Orlandi, Alberto | $17579.45
@@ -67,6 +67,6 @@ Periodo: 01/09/2020 - 01/10/2020
  Suc.De Dante Bedogni (N) | $9750.72
  Urueña Maria | $3553.07
  Urueña Maria Angelica | $0.00
- Villagra ( Fontana) | $56946.61
+ Villagra ( Fontana) | $34446.70
  Villagra Cynthia Del Valle | $120686.91
  yat club | $0.00
