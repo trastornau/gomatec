@@ -1,0 +1,72 @@
+Listado de cliente
+Viajante: Gustavo
+Periodo: 01/09/2020 - 01/10/2020
+
+
+ Alicata Elsa | $58530.71
+ Alicata, Graciela Josefa | $44237.18
+ Alonso M.E. | $9366.77
+ Alonso, Maria Ester | $21332.13
+ Aragón José | $1723.31
+ Bedogni Lucas | $0.00
+ Bernasconi Viviana | $0.00
+ Brandan, Claudia Patricia | $23549.37
+ Brandan,Claudia | $9831.79
+ Calafiore (Gianni) | $16014.11
+ Calafiore Teresa Noemi | $70816.64
+ Camandona, Aldo | $41856.49
+ Camandona, Aldo (N) | $63311.62
+ Chamut Ricardo | $88121.86
+ Cisneros Julio Cesar | $51757.80
+ Cisneros SH | $19779.35
+ Cisneros SH (N) | $1504.25
+ Cisneros, Julio Cesar (N) | $72810.81
+ Club Cardelanes | $0.00
+ Corralon Salta | $0.00
+ Corralon Salta | $0.00
+ Di Risio Enzo (Godoy) | $0.00
+ Diaz Falcao (N) | $165246.48
+ Diaz Falcao, Oscar Javier | $102425.30
+ Díaz Raquel Nimia | $0.00
+ Fernandez Murga | $0.00
+ Fernando Colombres | $0.00
+ Fernando Tomas Fernandez | $0.00
+ Ferreteria 24 de Set. (N) | $189762.88
+ Ferretería 24 S.R.L. | $29625.50
+ Fredy Gonzalez | $0.00
+ Fuentes, Felipe Augusto | $22301.56
+ Fuentes, Felipe Augusto (N) | $4668.75
+ Garretón, Felipe | $0.00
+ Gaudino Gustavo | $0.00
+ Gimenez | $0.00
+ GOCAR | $25249.79
+ GOCAR S.R.L | $0.00
+ Gonzalez (N) | $71263.10
+ Gonzalez Miguel Angel | $7237.41
+ Herrera, Néstor Ariel | $0.00
+ Liceo Rugby Club | $0.00
+ Luciano Pablo Nestor | $0.00
+ Martín Pedro (N) | $0.00
+ Martín, Pedro | $0.00
+ Medrano Diaz, Manuel | $0.00
+ Medrano Diaz, Manuel (n) | $0.00
+ Naty (cordoba) | $0.00
+ Nuñez (N) | $16455.08
+ Nuñez, Mario | $50993.14
+ Orlandi | $9850.26
+ Orlandi, Alberto | $17579.45
+ Paz, Hernan | $0.00
+ Ponce César | $0.00
+ S y M Estructuras | $0.00
+ San Roman Gabriel (N) | $2540.04
+ San Román José Armando (N) | $68928.50
+ San Román, José Armando | $79791.81
+ San Román, Marcos Gabriel | $11485.19
+ Sergio Wilde | $0.00
+ Suc. De Dante Bedogni | $8415.53
+ Suc.De Dante Bedogni (N) | $9750.72
+ Urueña Maria | $3553.07
+ Urueña Maria Angelica | $0.00
+ Villagra ( Fontana) | $56946.61
+ Villagra Cynthia Del Valle | $120686.91
+ yat club | $0.00

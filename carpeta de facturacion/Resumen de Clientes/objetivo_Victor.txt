@@ -1,0 +1,128 @@
+Listado de cliente
+Viajante: Victor
+Periodo: 01/09/2020 - 01/10/2020
+
+
+ Achin Matías | $24458.37
+ Achin Matías Eduardo | $8818.86
+ Acosta Mariana | $0.00
+ Acosta Mariana Alejandra | $0.00
+ Amado Santiago | $0.00
+ Amado Santiago Walter | $0.00
+ Aparicio | $0.00
+ Ayala, Joaquín | $7766.56
+ Ayala,Joaquin Francisco | $17470.26
+ Brailovky Mario | $0.00
+ Brailovky Mario Efrain | $0.00
+ Bulacio | $0.00
+ Bulacio Silvia Alejandra | $0.00
+ Carrizo Dreer Eliana | $0.00
+ Carrizo Eliana | $0.00
+ Carrizo Luis | $298139.71
+ Carrizo Luis Antonio | $0.00
+ Corbalán Walter Sergio | $1630.30
+ Corbalán Walter Sergio | $58146.72
+ Cordoba Maria | $20744.12
+ Cordoba Maria Renee | $69273.05
+ Corralón El Colita | $0.00
+ Cosentino Daniel | $0.00
+ Cosentino Daniel Angel | $0.00
+ Decima Jose | $9166.40
+ Decima Jose Ricardo | $28394.50
+ Díaz Arnaldo | $0.00
+ Díaz Arnaldo  © | $0.00
+ Dupuy Roque | $0.00
+ Dupuy Roque Jose | $0.00
+ EL COLITA | $0.00
+ Fabian Rodriguez | $0.00
+ Ferretería DAVID | $70268.04
+ Ferreteria Itati | $0.00
+ FERRETERIA ITATI | $0.00
+ Ferretería Roma | $0.00
+ Gimenez Hnos. S.R.L. | $0.00
+ Gimenez Sergio | $0.00
+ Gimenez Sergio Augusto | $0.00
+ Godoy tafi Viejo | $0.00
+ Godoy, Miguel Eduardo | $0.00
+ Gomez Adolfo | $4744.41
+ Gomez Oscar | $2711.06
+ Gomez Oscar Angel | $15252.98
+ Gomez Roberto | $14190.14
+ Gomez Roberto Luis | $26204.26
+ Gomez, Adolfo Nicolás | $8032.84
+ Gonzalez José | $0.00
+ Gonzalez Jose Osvaldo | $0.00
+ Guallart Gonzalo | $0.00
+ Gutierrez Rossana | $0.00
+ Gutierrez Rossana Magdalena | $0.00
+ Heredia Miguel | $0.00
+ Heredia Miguel José | $0.00
+ Herrera Angel | $0.00
+ Herrera Angel Antonio | $0.00
+ Hillen Jorge | $0.00
+ Hillen Jorge Antonio | $0.00
+ Juarez Miguel | $0.00
+ Juarez Miguel | $0.00
+ Kalcich Romero, Daniela Maria | $0.00
+ Lanosa Jorge | $3144.15
+ Lanosa Jorge Eduardo | $40735.34
+ Leal Hugo | $0.00
+ Marcial | $8960.88
+ Marcial, Eduardo Alejandro | $10784.01
+ Marquez David Antonio | $17267.53
+ Medina Vera del Barco | $5286.21
+ Medina Vera del Barco Alejandro | $3679.44
+ Molina Ramiro | $8944.89
+ Molina Ramiro Daniel | $1007.85
+ Moreno Lilian | $27852.00
+ Moreno, Lilian del Valle | $0.00
+ Murillo Francisco Daniel | $0.00
+ Olaz Pablo | $0.00
+ Olaz, Pablo | $0.00
+ Oviedo,Carlos | $0.00
+ Oviedo,Carlos Alberto | $0.00
+ Parra Carlos | $71891.32
+ Parra Carlos Federico | $28846.67
+ Paz Francisco | $3233.99
+ Paz Francisco Rodrigo | $0.00
+ Pedro Víctor Rodolfo | $0.00
+ Pedro, Víctor | $19380.33
+ Pérez | $205130.47
+ Pérez Gustavo Marcelo | $0.00
+ Plano Emilse | $0.00
+ Plano Emilse Natalia | $0.00
+ Possumato, José | $0.00
+ Possumato, José Antonio | $0.00
+ Rodriguez Angel Fabian | $0.00
+ Rodriguez Cristina Sandra | $0.00
+ Romero José | $15979.31
+ Romero,José Andres | $29791.40
+ Ruiz, Francisco (hijo) | $25793.13
+ Ruiz, Francisco A. | $74900.79
+ Ruiz, Francisco Angel | $0.00
+ Ruiz. Francisco A. (N) | $21858.18
+ Russo Andrea | $0.00
+ Sandra Rodriguez | $0.00
+ Saravia (Ferrecom) | $0.00
+ Saravia Vanessa Raquel | $5286.41
+ Silvia Herrera | $0.00
+ Silvia Herrrera | $0.00
+ Sosa Javier | $0.00
+ Sosa Javier | $0.00
+ Sotelo Luis | $0.00
+ Sotelo Luis Mauricio | $0.00
+ Suarez Carlos | $0.00
+ Suarez Carlos Oscar | $0.00
+ Suc. de Bedogni Gino | $0.00
+ Sucesión de Bedogni Gino | $0.00
+ Szlosberg | $680.10
+ Szlosberg Claudio Sebastian | $0.00
+ Szlosberg David | $0.00
+ Szlosberg David Horacio | $0.00
+ Taboada Santiago | $680.10
+ Taboada Santiago Jose | $1457.98
+ Triviño Juan José | $0.00
+ Verburg Adrian | $0.00
+ Werchow Esther Mónica | $0.00
+ Zanotta Sarzur Stefano | $0.00
+ Zanotta Sarzur Stefano Martin | $0.00

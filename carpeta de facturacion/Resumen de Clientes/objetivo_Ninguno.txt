@@ -1,0 +1,107 @@
+Listado de cliente
+Viajante: Ninguno
+Periodo: 01/09/2020 - 01/10/2020
+
+
+ Adad Amado | $0.00
+ Agüero Hector | $0.00
+ Agüero, Héctor Sebastián | $0.00
+ Alvárez Javier | $0.00
+ Asoc.Coop.DE LA EERA FAMAILLA DEL INTA | $0.00
+ Basilio Beatriz Sofía | $0.00
+ Batcon | $0.00
+ Batcon S.R.L. | $0.00
+ Benjamin | $1107.07
+ Bicicleteria Don Bosco  (N) | $0.00
+ Boggo, Ma. Eugenia | $5825.48
+ Boggo, Maria Eugenia(N) | $28468.69
+ Campero Hnos. (N) | $0.00
+ Campero Hnos. S.A. | $0.00
+ Chavez, Juan Eduardo | $0.00
+ Club Barrio Jardin | $0.00
+ Consorcio Torre Sol 4 | $0.00
+ Diaz Saravia Eduardo | $0.00
+ Electrocivil | $0.00
+ Electrocivil SRL | $0.00
+ Elena | $0.00
+ FU.CA.DER | $0.00
+ FUNDACION ARGENINTA | $0.00
+ FUNDACION ARGENINTA | $0.00
+ Gomatec | $3486.33
+ Gonzalo | $610.26
+ Hector Cabral (N) | $0.00
+ Hèctor Cabral y Cìa. S.R.L. | $0.00
+ Herrera Silvia | $0.00
+ Herrera, Néstor | $0.00
+ Huinca  Renanco Norte S.R.L. | $0.00
+ INAR construcciones | $0.00
+ Inar Construcciones S.R.L. | $0.00
+ Instituto Nacional de Tecnología Agropecuaria | $0.00
+ isabel | $0.00
+ JASYCO SAS | $0.00
+ Juan José | $0.00
+ Juan, Miguel | $0.00
+ Juan, Miguel Jacinto | $0.00
+ Julio | $0.00
+ Lau, Juan Pablo | $2128.90
+ Legname Marcelo | $0.00
+ Lobo Javier | $0.00
+ Lopez Carla | $0.00
+ López Carlos | $0.00
+ Mapega SRL | $18029.02
+ Marcos | $0.00
+ Mariana Calderon | $0.00
+ Mario Plomero | $0.00
+ Martínez  (ex Felipe) | $0.00
+ Martínez, Rodrigo | $0.00
+ Melian Carlos | $0.00
+ Mhuana | $0.00
+ Mhuana e Hijos SRL. | $0.00
+ Moran, Maria Gabriela | $0.00
+ Muhana Juan C. | $0.00
+ Muhana,Juan Carlos | $0.00
+ Mundo Sanitarios | $0.00
+ Mundo Sanitarios & Materiales S.R.L. | $0.00
+ Nadal Miguel | $16783.71
+ Nadal, Miguel | $0.00
+ Narvarte Roberto | $0.00
+ Naty  (casa) | $149.26
+ NESTOR VILDOZA | $0.00
+ Noanet S.A. | $0.00
+ Pablo Hashimoto | $0.00
+ Pablo Luciano | $0.00
+ Paez Martín | $0.00
+ Pellegrino Franco Augusto | $0.00
+ Pereira, Noraly Jorgelina | $0.00
+ Plaza Silvia Norma | $0.00
+ Polesman Norberto | $0.00
+ Posleman Silvina | $0.00
+ Prado | $0.00
+ PROIMI- CONICET | $0.00
+ Ramiro | $0.00
+ Ramofer (N) | $18867.06
+ Ramofer SRL | $18395.67
+ Reinoso | $0.00
+ Ruben Camaras | $0.00
+ Scarlata José | $0.00
+ Scarlata José Antonio | $0.00
+ Soria Jimenez Sabrina | $0.00
+ Soria Jimenez Sabrina Selena | $0.00
+ Stetsiuk Pedro | $0.00
+ Suc. De Jacoub Graciela Josefina | $0.00
+ Tarantino | $0.00
+ TARANTINO S.R.L. | $0.00
+ Torres (N) | $1034.49
+ Torres Lorenzo | $0.00
+ Torres, Gabriel Esteban | $5016.65
+ Transporte Alejandro | $0.00
+ Tula Guillermo | $0.00
+ Uasuf Jorge | $593.03
+ UTE Batcon S.R.L. Omodeo S.A. Itech S.A. | $0.00
+ Velarde Roberto H. | $40749.86
+ VELARDE ROBERTO HORACIO | $4839.29
+ Vidal Fernando | $0.00
+ Vidal Gustavo | $0.00
+ Vidal Ricardo | $0.00
+ Villafañe, Angel Ricardo | $0.00
+ Walter ( Fuentes) | $0.00
